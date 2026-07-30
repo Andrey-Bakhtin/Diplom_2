@@ -1,0 +1,1 @@
+[33mWARNING [0m conftest:conftest.py:18 Не удалось удалить пользоваетля с token Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNjhiODgwOTg0MjcwMDAxYmViY2ZjYyIsImlhdCI6MTc4NTI0Nzg3MiwiZXhwIjoxNzg1MjQ5MDcyfQ.C-2dSGJWMqe2a4SUdQQuz0uhe7a_9YmMoIJfGsGtUDY. Статус: 202, Ответ: {'success': True, 'message': 'User successfully removed'}
